@@ -1,7 +1,7 @@
 // Function to fetch data from Google Sheets using the provided URL
 async function fetchSheetData() {
     try {
-        const response = await fetch('https://script.google.com/macros/s/AKfycbzaJlsb-4iuzqo501F_NnLwtLml8xrVhvAJo-WyZAc7jEdPXw-dDVx9r9EuLrkqleyo/exec'); // الرابط الخاص بك
+        const response = await fetch('https://script.google.com/macros/s/AKfycbwoPh_ogjugXmApyQmh94brYhtSko_daeig-blDaBgKC5jzVfXPuurcp5sCa3BwTq0c/exec'); // الرابط الخاص بك
         const data = await response.json();
 
         // تحقق من البيانات المستلمة
