@@ -156,7 +156,7 @@ function updateFixedNumber() {
 
 // Open the Google Sheet
 function openGoogleSheet() {
-    window.open('https://docs.google.com/spreadsheets/d/1x7XCMzvMvxJ1X99peHmF-XCVZ0pHtVJO3xTb0s879js/edit?gid=0#gid=0/edit', '_blank');
+    window.open('https://docs.google.com/spreadsheets/d/1JbS1U5QrPhmq6_eXlLD8PjPdUtsdv-ca5mwdAhMUk80/edit?gid=0#gid=0', '_blank');
 }
 
 // Event listeners for input changes to update the message preview
